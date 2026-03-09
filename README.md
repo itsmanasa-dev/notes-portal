@@ -1,1 +1,1 @@
-# This is my local repo used for js
+# This is my local repo used for js used to learn js
